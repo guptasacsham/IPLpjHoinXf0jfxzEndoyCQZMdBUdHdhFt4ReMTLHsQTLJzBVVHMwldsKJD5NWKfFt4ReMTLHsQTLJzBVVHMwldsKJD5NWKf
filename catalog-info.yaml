@@ -1,7 +1,7 @@
 apiVersion: backstage.io/v1alpha1
 kind: Component
 metadata:
-  name: IPLpjHoinXf0jfxzEndoyCQZMdBUdHdhFt4ReMTLHsQTLJzBVVHMwldsKJD5NWKfGGjKp6OU6GJyfSN5iFeaRBHjjS8cfptj
+  name: xyz   pqr  xyz
 spec:
   lifecycle: production
   owner: my-team
